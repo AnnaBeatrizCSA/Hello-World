@@ -23,4 +23,4 @@ Dupla de Elite:
 - Anna Beatriz Casellato – Líder do Projeto
 - Isabelly Tambra – Revisor de Qualidade
 
-Atualização para Pull Request QA → MAIN
+Atualização para Pull Request qa -> main
