@@ -22,3 +22,5 @@ O objetivo é aplicar boas práticas de colaboração no desenvolvimento de soft
 Dupla de Elite:
 - Anna Beatriz Casellato – Líder do Projeto
 - Isabelly Tambra – Revisor de Qualidade
+
+Atualização de teste para Pull Request
