@@ -23,4 +23,3 @@ Dupla de Elite:
 - Anna Beatriz Casellato – Líder do Projeto
 - Isabelly Tambra – Revisor de Qualidade
 
-# Atualização de teste para Code Review
